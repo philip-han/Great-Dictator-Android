@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Great Dictator</string>
+    <string name="listening">LISTENING</string>
+    <string name="sleeping">Sleeping</string>
+</resources>
