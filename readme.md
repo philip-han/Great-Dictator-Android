@@ -24,4 +24,4 @@ This command is for version 4.5.1, adjust if necessary.
 <br>
 
 ## Using the app
-On iOS version, tap the Dictate button and start speaking, then tap Dictate button again to stop it. On Android, it will stop automatically when silence is detected after speaking.
+On iOS version, tap the **Dictate** button and start speaking, then tap **Dictate** button again to stop it. On Android, it will stop automatically when silence is detected after speaking.
