@@ -19,3 +19,4 @@ Simply extract and run this command from where it was extracted to:
 
 java -mx3g -cp stanford-corenlp-4.5.1.jar:stanford-corenlp-4.5.1-models.jar:joda-time.jar:jollyday.jar:protobuf-java-3.19.2.jar:xom.jar:ejml-core-0.39.jar:ejml-simple-0.39.jar:ejml-ddense-0.39.jar:jaxb-api-2.4.0-b180830.0359.jar:jaxb-impl-2.4.0-b180830.0438.jar edu.stanford.nlp.pipeline.StanfordCoreNLPServer -preload tokenize,pos,parse,sentiment,ssplit
 ```
+This command is for version 4.5.1, adjust if necessary.
